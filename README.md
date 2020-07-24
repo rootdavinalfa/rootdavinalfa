@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there, I'm [Davin Alfarizky Putra Basudewa!](https://dvnlabs.xyz) 👋
 
-<!--
-**rootdavinalfa/rootdavinalfa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm self taught Android native programmer and backend Programmer.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning Java Spring
+- 💬 Ask me about anything here [here](https://github.com/rootdavinalfa/rootdavinalfa/issues)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/rootdavinalfa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rootdavinalfa&theme=radical />
+</a>
+<a href="https://github.com/rootdavinalfa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootdavinalfa&show_icons=true&theme=radical&line_height=27&v=5" alt="rootdavinalfa's github stats" />
+</a>
+
+<a href="https://github.com/rootdavinalfa/OpenMusix">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rootdavinalfa&repo=OpenMusix&theme=radical" />
+</a>    
+<a href="https://github.com/rootdavinalfa/sikaduapi">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rootdavinalfa&repo=sikaduapi&theme=radical" />
+</a>
+<a href="https://github.com/rootdavinalfa/animize">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rootdavinalfa&repo=animize&theme=radical" />
+</a>
