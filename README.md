@@ -12,13 +12,3 @@ I'm self taught Android native programmer and backend Programmer.
 <a href="https://github.com/rootdavinalfa">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rootdavinalfa&show_icons=true&theme=radical&line_height=27&v=5" alt="rootdavinalfa's github stats" />
 </a>
-
-<a href="https://github.com/rootdavinalfa/OpenMusix">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rootdavinalfa&repo=OpenMusix&theme=radical" />
-</a>    
-<a href="https://github.com/rootdavinalfa/sikaduapi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rootdavinalfa&repo=sikaduapi&theme=radical" />
-</a>
-<a href="https://github.com/rootdavinalfa/animize">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rootdavinalfa&repo=animize&theme=radical" />
-</a>
