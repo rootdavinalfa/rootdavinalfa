@@ -2,7 +2,7 @@
 
 I'm self taught Android native programmer and backend Programmer.
 
-- 🌱 I’m currently learning Java Spring
+- 🌱 I’m currently working with Java Spring, with JPA , Hibernate, for building REST API
 - 💬 Ask me about anything here [here](https://github.com/rootdavinalfa/rootdavinalfa/issues)
 
 <a href="https://github.com/rootdavinalfa">
